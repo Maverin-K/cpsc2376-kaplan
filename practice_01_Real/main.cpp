@@ -137,7 +137,7 @@ int main() {
         default:
             std::cout << "Invalid choice, please try again.\n";
         }
-    } while (choice != 6);
+    } while (choice != 7);
 
     return 0;
 }
